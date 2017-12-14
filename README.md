@@ -1,5 +1,5 @@
 # Draw-Shapes
-This is only the executable file. I cannot share any of the source code as this is a class assignment and I have to abide by the class policy and not engage in plagiarism.  
+This is only the executable file. I cannot share any of the source code as this is an adaptation of a class assignment and I have to abide by the class policy and not engage in plagiarism.  
 
 Note: The program was created as a Windows Form Application using C#.NET and so can only be used on a Windows OS.
 
